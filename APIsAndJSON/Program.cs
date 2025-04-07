@@ -20,6 +20,8 @@ namespace KanyeWest
                
             }
             
+            //please make sure you call weatherapp in main method. underneath here :) 
+            
         }
 
        
